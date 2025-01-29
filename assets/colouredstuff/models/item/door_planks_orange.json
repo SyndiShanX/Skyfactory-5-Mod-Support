@@ -1,0 +1,8 @@
+{
+	"parent": "colouredstuff:item/door",
+	"textures": {
+		"top": "colouredstuff:block/doors/orange_door_top",
+		"bottom": "colouredstuff:block/doors/orange_door_bottom",
+		"sides": "colouredstuff:block/doors/orange_door_sides"
+	}
+}

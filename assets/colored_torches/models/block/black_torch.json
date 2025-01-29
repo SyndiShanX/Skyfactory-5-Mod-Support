@@ -1,0 +1,7 @@
+{
+  "parent": "colored_torches:block/torch_template",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "fire": "colored_torches:block/black_torch_flame"
+  }
+}

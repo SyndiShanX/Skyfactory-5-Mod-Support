@@ -1,0 +1,7 @@
+{
+	"parent": "colouredstuff:block/doors/door_bottom_hinge_es_template",
+	"textures": {
+		"bottom": "colouredstuff:block/doors/white_door_bottom",
+		"sides": "colouredstuff:block/doors/white_door_sides"
+	}
+}

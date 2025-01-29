@@ -1,0 +1,6 @@
+{
+	"parent": "colouredstuff:block/trapdoors/trapdoor_open_template",
+	"textures": {
+		"trapdoor": "colouredstuff:block/trapdoors/green_trapdoor"
+	}
+}

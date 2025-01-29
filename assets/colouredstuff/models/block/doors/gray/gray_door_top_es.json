@@ -1,0 +1,7 @@
+{
+	"parent": "colouredstuff:block/doors/door_top_es_template",
+	"textures": {
+		"top": "colouredstuff:block/doors/gray_door_top",
+		"sides": "colouredstuff:block/doors/gray_door_sides"
+	}
+}
