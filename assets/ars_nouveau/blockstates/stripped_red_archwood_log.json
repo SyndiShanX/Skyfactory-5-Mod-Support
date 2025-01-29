@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": [
+    		{"model": "ars_nouveau:block/stripped_red_archwood_log_horizontal"}
+    	],
+    "axis=y": [
+    		{"model": "ars_nouveau:block/stripped_red_archwood_log"}
+    	],
+    "axis=z": [
+    		{"model": "ars_nouveau:block/stripped_red_archwood_log_horizontal"}
+    	]
+  }
+}
