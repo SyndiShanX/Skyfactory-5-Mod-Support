@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "apotheosis:blocks/seashelf_top",
+        "side": "apotheosis:blocks/heart_seashelf"
+    }
+}
