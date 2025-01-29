@@ -1,0 +1,11 @@
+{ "multipart": [
+    { "apply": [
+        { "model": "minecraft:block/white_stained_glass" }
+      ]
+    },
+    { "apply": [
+        { "model": "minecraft:block/glass_insides" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+	"loader": "fusion:model",
+	"type": "connecting",
+	"connections": [
+		{ "type": "is_same_block" }
+	],
+	"parent": "block/template_glass_pane_side_south",
+	"textures": {
+		"pane": "block/ctm/glass_pane/light_blue",
+		"edge":"block/ctm/glass_pane/glass_pane_sides"
+	}
+}

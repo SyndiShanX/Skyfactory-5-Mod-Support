@@ -1,0 +1,12 @@
+{ "variants": {
+    "axis=y": [
+      { "model": "block/log/acacia/y_axis" }
+    ],
+    "axis=z": [
+      { "model": "block/log/acacia/z_axis" }
+    ],
+    "axis=x": [
+      { "model": "block/log/acacia/x_axis" }
+    ]
+  }
+}

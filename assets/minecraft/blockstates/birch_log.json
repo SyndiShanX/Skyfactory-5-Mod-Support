@@ -1,0 +1,12 @@
+{ "variants": {
+    "axis=y": [
+      { "model": "block/log/birch/y_axis" }
+    ],
+    "axis=z": [
+      { "model": "block/log/birch/z_axis" }
+    ],
+    "axis=x": [
+      { "model": "block/log/birch/x_axis" }
+    ]
+  }
+}

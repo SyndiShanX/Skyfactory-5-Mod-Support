@@ -1,0 +1,11 @@
+{ "multipart": [
+    { "apply": [
+        { "model": "minecraft:block/black_stained_glass" }
+      ]
+    },
+    { "apply": [
+        { "model": "minecraft:block/glass_insides" }
+      ]
+    }
+  ]
+}

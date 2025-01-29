@@ -1,0 +1,18 @@
+{ "multipart": [
+    { "apply": [
+        { "model": "occultism:block/deepslate_ores/silver/sides/0" },
+        { "model": "occultism:block/deepslate_ores/silver/sides/1" },
+        { "model": "occultism:block/deepslate_ores/silver/sides/2" },
+        { "model": "occultism:block/deepslate_ores/silver/sides/3" },
+        { "model": "occultism:block/deepslate_ores/silver/sides/4" }
+      ]
+    },
+    { "apply": [
+        { "model": "occultism:block/deepslate_ores/silver/ends/0" },
+        { "model": "occultism:block/deepslate_ores/silver/ends/1" },
+        { "model": "occultism:block/deepslate_ores/silver/ends/2" },
+        { "model": "occultism:block/deepslate_ores/silver/ends/3" }
+      ]
+    }
+  ]
+}

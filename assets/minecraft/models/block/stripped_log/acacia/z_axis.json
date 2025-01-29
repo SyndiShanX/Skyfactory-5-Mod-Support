@@ -1,0 +1,12 @@
+{
+	"loader": "fusion:model",
+	"type": "connecting",
+	"connections": [
+		{ "type": "is_same_state" }
+	],
+	"parent": "block/log/template_log_z",
+	"textures": {
+		"end": "block/ctm/stripped_log/acacia",
+		"side":"block/stripped_acacia_log"
+	}
+}

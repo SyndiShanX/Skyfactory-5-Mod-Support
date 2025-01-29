@@ -1,0 +1,11 @@
+{
+	"loader": "fusion:model",
+	"type": "connecting",
+	"connections": [
+		{ "type": "is_same_block" }
+	],
+	"parent": "block/template_farmland",
+	"textures": {
+		"top":"block/ctm/farmland/7"
+	}
+}

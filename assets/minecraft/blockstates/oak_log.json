@@ -1,0 +1,12 @@
+{ "variants": {
+    "axis=y": [
+      { "model": "block/log/oak/y_axis" }
+    ],
+    "axis=z": [
+      { "model": "block/log/oak/z_axis" }
+    ],
+    "axis=x": [
+      { "model": "block/log/oak/x_axis" }
+    ]
+  }
+}

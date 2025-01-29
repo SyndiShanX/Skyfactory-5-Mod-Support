@@ -1,0 +1,121 @@
+{
+ "loader": "fusion:model",
+ "type": "connecting",
+ "parent": "block/block",
+ "textures": {
+   "particle": "#all",
+   "all": "block/purple_terracotta",
+   "andesite_overlay": "block/ctm/andesite/andesite_overlay",
+   "diorite_overlay": "block/ctm/diorite/diorite_overlay",
+   "dirt_overlay": "block/ctm/dirt/dirt_overlay",
+   "granite_overlay": "block/ctm/granite/granite_overlay",
+   "gravel_overlay": "block/ctm/gravel/gravel_overlay",
+   "stone_overlay": "block/ctm/stone/stone_overlay"
+ },
+ "connections": {
+   "andesite_overlay": [
+     { "type": "match_block", "block": "andesite" }
+   ],
+   "diorite_overlay": [
+     { "type": "match_block", "block": "diorite" }
+   ],
+   "dirt_overlay": [
+     { "type": "match_block", "block": "dirt" }
+   ],
+   "granite_overlay": [
+     { "type": "match_block", "block": "granite" }
+   ],
+   "gravel_overlay": [
+     { "type": "match_block", "block": "gravel" }
+   ],
+   "stone_overlay": [
+     { "type": "match_block", "block": "stone" }
+   ]
+ },
+ "elements": [
+   {
+     "from": [ 0, 0, 0 ],
+     "to": [ 16, 16, 16 ],
+     "faces": {
+       "down": { "texture": "#all", "cullface": "down" },
+       "up": { "texture": "#all", "cullface": "up" },
+       "north": { "texture": "#all", "cullface": "north" },
+       "south": { "texture": "#all", "cullface": "south" },
+       "west": { "texture": "#all", "cullface": "west" },
+       "east": { "texture": "#all", "cullface": "east" }
+     }
+   },
+   {
+     "from": [ 0, 0, 0 ],
+     "to": [ 16, 16, 16 ],
+     "faces": {
+       "down": { "texture": "#andesite_overlay", "cullface": "down" },
+       "up": { "texture": "#andesite_overlay", "cullface": "up" },
+       "north": { "texture": "#andesite_overlay", "cullface": "north" },
+       "south": { "texture": "#andesite_overlay", "cullface": "south" },
+       "west": { "texture": "#andesite_overlay", "cullface": "west" },
+       "east": { "texture": "#andesite_overlay", "cullface": "east" }
+     }
+   },
+   {
+     "from": [ 0, 0, 0 ],
+     "to": [ 16, 16, 16 ],
+     "faces": {
+       "down": { "texture": "#diorite_overlay", "cullface": "down" },
+       "up": { "texture": "#diorite_overlay", "cullface": "up" },
+       "north": { "texture": "#diorite_overlay", "cullface": "north" },
+       "south": { "texture": "#diorite_overlay", "cullface": "south" },
+       "west": { "texture": "#diorite_overlay", "cullface": "west" },
+       "east": { "texture": "#diorite_overlay", "cullface": "east" }
+     }
+   },
+   {
+     "from": [ 0, 0, 0 ],
+     "to": [ 16, 16, 16 ],
+     "faces": {
+       "down": { "texture": "#dirt_overlay", "cullface": "down" },
+       "up": { "texture": "#dirt_overlay", "cullface": "up" },
+       "north": { "texture": "#dirt_overlay", "cullface": "north" },
+       "south": { "texture": "#dirt_overlay", "cullface": "south" },
+       "west": { "texture": "#dirt_overlay", "cullface": "west" },
+       "east": { "texture": "#dirt_overlay", "cullface": "east" }
+     }
+   },
+   {
+     "from": [ 0, 0, 0 ],
+     "to": [ 16, 16, 16 ],
+     "faces": {
+       "down": { "texture": "#granite_overlay", "cullface": "down" },
+       "up": { "texture": "#granite_overlay", "cullface": "up" },
+       "north": { "texture": "#granite_overlay", "cullface": "north" },
+       "south": { "texture": "#granite_overlay", "cullface": "south" },
+       "west": { "texture": "#granite_overlay", "cullface": "west" },
+       "east": { "texture": "#granite_overlay", "cullface": "east" }
+     }
+   },
+   {
+     "from": [ 0, 0, 0 ],
+     "to": [ 16, 16, 16 ],
+     "faces": {
+       "down": { "texture": "#gravel_overlay", "cullface": "down" },
+       "up": { "texture": "#gravel_overlay", "cullface": "up" },
+       "north": { "texture": "#gravel_overlay", "cullface": "north" },
+       "south": { "texture": "#gravel_overlay", "cullface": "south" },
+       "west": { "texture": "#gravel_overlay", "cullface": "west" },
+       "east": { "texture": "#gravel_overlay", "cullface": "east" }
+     }
+   },
+   {
+     "from": [ 0, 0, 0 ],
+     "to": [ 16, 16, 16 ],
+     "faces": {
+       "down": { "texture": "#stone_overlay", "cullface": "down" },
+       "up": { "texture": "#stone_overlay", "cullface": "up" },
+       "north": { "texture": "#stone_overlay", "cullface": "north" },
+       "south": { "texture": "#stone_overlay", "cullface": "south" },
+       "west": { "texture": "#stone_overlay", "cullface": "west" },
+       "east": { "texture": "#stone_overlay", "cullface": "east" }
+     }
+   }
+ ]
+}

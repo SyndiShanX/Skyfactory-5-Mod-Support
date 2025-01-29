@@ -1,0 +1,12 @@
+{ "variants": {
+    "axis=y": [
+      { "model": "block/stripped_log/birch/y_axis" }
+    ],
+    "axis=z": [
+      { "model": "block/stripped_log/birch/z_axis" }
+    ],
+    "axis=x": [
+      { "model": "block/stripped_log/birch/x_axis" }
+    ]
+  }
+}

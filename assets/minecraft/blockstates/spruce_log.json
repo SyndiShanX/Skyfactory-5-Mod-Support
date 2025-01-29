@@ -1,0 +1,12 @@
+{ "variants": {
+    "axis=y": [
+      { "model": "block/log/spruce/y_axis" }
+    ],
+    "axis=z": [
+      { "model": "block/log/spruce/z_axis" }
+    ],
+    "axis=x": [
+      { "model": "block/log/spruce/x_axis" }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{ "variants": {
+    "axis=y": [
+      { "model": "block/log/jungle/y_axis" }
+    ],
+    "axis=z": [
+      { "model": "block/log/jungle/z_axis" }
+    ],
+    "axis=x": [
+      { "model": "block/log/jungle/x_axis" }
+    ]
+  }
+}
